@@ -3,7 +3,7 @@
 """
 Created on Tue Mar 23 16:44:34 2021
 
-@author: hatus
+@author: 
 """
 
 # Write your list_stats function here.
