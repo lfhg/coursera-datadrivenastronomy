@@ -3,7 +3,7 @@
 """
 Created on Tue Mar 23 15:56:28 2021
 
-@author: hatus
+@author: 
 """
 
 from astropy.io import fits
